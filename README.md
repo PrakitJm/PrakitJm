@@ -1,10 +1,10 @@
-# 👋 Hello! I'm [Your Name]
+# 👋 Hello! I'm James
 
 Welcome to my GitHub profile! I'm a 4th-year student at Chiang Mai University, passionate about software development, especially in backend and full-stack projects using Go and React.
 
 ## 🧑‍🎓 About Me
 
-- 🎓 4th-year student at **Chiang Mai University**, majoring in **[Your Major/Faculty]**
+- 🎓 4th-year student at **Chiang Mai University**, majoring in **Com-Sci**
 - 💻 Passionate about **backend development**, **REST APIs**, and building real-world applications
 - 🛠️ Tech stack: Go, React, JavaScript, TypeScript, MySQL, HTML/CSS
 - 🌱 Currently learning: Docker, Clean Architecture, Deployment
