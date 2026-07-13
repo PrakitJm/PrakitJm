@@ -20,7 +20,7 @@ Although many repos are currently private or cleaned up, here's a glimpse of wha
 I'm working on polishing these projects and will publish them here soon!
 
 ## 📫 Contact Me
-- 📧 Email: prakit.buathonng@gmail.com
+- 📧 Email: prakitbuathonng@gmail.com
 
 ---
 > Thanks for visiting! I'm always open to collaboration and job opportunities. Stay tuned for upcoming projects. 😊
